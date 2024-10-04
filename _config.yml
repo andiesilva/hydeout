@@ -31,6 +31,8 @@ exclude:
   - README.md
   - .gitignore
 
+paginate_path: /welcome.html
+
 defaults:
   - scope:
       path: "_posts"
