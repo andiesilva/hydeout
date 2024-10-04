@@ -19,10 +19,6 @@ author:
   name:           'Andie Silva'
   url:            
 
-paginate:         1
-# paginate_path:    '/_posts/welcome.md'
-                    # Or '/blog/page:num' if you want to move your index pages
-
 plugins:
   - jekyll-feed
   - jekyll-gist
