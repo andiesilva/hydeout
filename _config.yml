@@ -35,15 +35,13 @@ exclude:
   - README.md
   - .gitignore
 
-permalink:        /:year/:month/:day/:title.html
-
 defaults:
   - scope:
       path: "_posts"
-      type: "posts"
+      type: "page"
     values:
       excerpt_separator:  <!--more-->
-      layout: post
+      layout: page
 
 # Sidebar link settings
 sidebar_home_link:  true
