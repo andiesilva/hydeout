@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Stationers' Paratexts Online
+tagline:          
+description:     A database of paratexts composed by early English printers, publishers, and booksellers (1500-1700).
 url:              https://andiesilva.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -53,12 +53,10 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 disqus:
-  shortname:      hydeout
+  shortname:      
 
 google_analytics: UA-100461102-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
-hydeout:
-  version:          4.2.0
-  repo:             https://github.com/fongandrew/hydeout
+
