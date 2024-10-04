@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Stationers' Paratexts Online
 tagline:          
-description:     A database of paratexts composed by early English printers, publishers, and booksellers (1500-1700).
+description:     
 url:              https://andiesilva.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
